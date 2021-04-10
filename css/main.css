@@ -380,6 +380,7 @@ button {
 .new_items {
 	display: flex;
 	min-width: 0;
+	margin: 0 30px;
 }
 
 .new_item {
